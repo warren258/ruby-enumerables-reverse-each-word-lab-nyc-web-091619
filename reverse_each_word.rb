@@ -1,3 +1,3 @@
 def reverse_each_word(string)
-  spin = 
+  spin = reverse_each_word.map
 end
